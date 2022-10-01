@@ -1,0 +1,30 @@
+.header{
+ background-color: #353835;
+ height: 8%;
+}
+.buttongroup{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 100%;
+    margin-left: 8vh;
+}
+.button {
+    padding: 0.5em 1.7em;
+    margin-left: 1rem;
+    background-color: #353835;
+    border: 0;
+    color: white;
+    border-radius: 2em;
+    text-decoration: none;
+    font-family: Georgia, serif;
+    font-weight: 300;
+    text-shadow: 0 0.04em 0.04em rgba(255, 255, 255, 0.253);
+    text-align: center;
+    transition: all 0.2s;
+  }
+  
+  .button:hover {
+    color: #353835;
+    background-color: white;
+  }
