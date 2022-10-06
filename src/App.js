@@ -4,7 +4,7 @@ import TextArea from './Components/TextArea';
 function App() {
   return (
     <div className='app'>
-      <ul class="background">
+      <ul className="background">
         <Header/>
         <TextArea/>
        <li></li>
