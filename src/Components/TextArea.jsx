@@ -17,7 +17,7 @@ const TextArea = () => {
    }
   return (
     <>
-    <div className='heading'>ABC Compress</div>
+    <div className='heading'>Huff_Compress</div>
     <textarea className='textarea' placeholder='Enter Text Here' rows='8' onChange={HandleOnChange}></textarea>
     <button className="button-75" role="button"><span className="text" onClick={operations}>Compress Test</span></button>
     <Result_Display v1={val1} v2={val2}/>
