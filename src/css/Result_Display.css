@@ -1,0 +1,15 @@
+@import url('http://fonts.cdnfonts.com/css/paneuropa-highway');
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+}
+.box{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 16.5rem;
+    border-radius: 25px;
+    color: white;
+    background-color: #272A2A;
+    font-family: 'Paneuropa Highway', sans-serif;
+}
