@@ -1,7 +1,7 @@
 {
   "name": "abc-compress",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://Raunak-Shalya.github.io/Huff_Compress",
   "dependencies": {
     "cra-template": "1.2.0",
