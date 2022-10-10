@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/paneuropa-highway');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
 .container{
     display: flex;
     flex-direction: row;
@@ -11,5 +11,5 @@
     border-radius: 25px;
     color: white;
     background-color: #272A2A;
-    font-family: 'Paneuropa Highway', sans-serif;
+    font-family: 'Alkalami', serif;
 }

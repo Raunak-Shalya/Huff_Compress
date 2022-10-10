@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 .heading{
     margin-left: 5.5rem;
     margin-top: 2rem;
     color:white;
-    font-family: 'Muloka Kerash', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: x-large;
   }
   .textarea{
